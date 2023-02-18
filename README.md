@@ -1,6 +1,6 @@
-# Shopping Cart
+# AirEstate
 
-A single page real estate website where the user is able to view and filter out properties, Filtering conditions will only work when all 4 criterias namely Location, Price, Date and Type is mentioned (Apartment or house).
+A single page rent a property website where the user is able to view and filter out properties, Filtering conditions will only work when all 4 criterias namely Location, Price, Date and Type is mentioned (Apartment or house).
 
 ## Frameworks, packages, Technology, etc used
 * React
